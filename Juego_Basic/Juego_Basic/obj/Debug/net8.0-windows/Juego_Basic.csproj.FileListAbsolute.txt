@@ -1,0 +1,16 @@
+D:\FILE-JC\CURSOS\UNAJ\PONENTE\Calidad\Juego_Basic\Juego_Basic\bin\Debug\net8.0-windows\Juego_Basic.exe
+D:\FILE-JC\CURSOS\UNAJ\PONENTE\Calidad\Juego_Basic\Juego_Basic\bin\Debug\net8.0-windows\Juego_Basic.deps.json
+D:\FILE-JC\CURSOS\UNAJ\PONENTE\Calidad\Juego_Basic\Juego_Basic\bin\Debug\net8.0-windows\Juego_Basic.runtimeconfig.json
+D:\FILE-JC\CURSOS\UNAJ\PONENTE\Calidad\Juego_Basic\Juego_Basic\bin\Debug\net8.0-windows\Juego_Basic.dll
+D:\FILE-JC\CURSOS\UNAJ\PONENTE\Calidad\Juego_Basic\Juego_Basic\bin\Debug\net8.0-windows\Juego_Basic.pdb
+D:\FILE-JC\CURSOS\UNAJ\PONENTE\Calidad\Juego_Basic\Juego_Basic\obj\Debug\net8.0-windows\Juego_Basic.Form1.resources
+D:\FILE-JC\CURSOS\UNAJ\PONENTE\Calidad\Juego_Basic\Juego_Basic\obj\Debug\net8.0-windows\Juego_Basic.csproj.GenerateResource.cache
+D:\FILE-JC\CURSOS\UNAJ\PONENTE\Calidad\Juego_Basic\Juego_Basic\obj\Debug\net8.0-windows\Juego_Basic.GeneratedMSBuildEditorConfig.editorconfig
+D:\FILE-JC\CURSOS\UNAJ\PONENTE\Calidad\Juego_Basic\Juego_Basic\obj\Debug\net8.0-windows\Juego_Basic.AssemblyInfoInputs.cache
+D:\FILE-JC\CURSOS\UNAJ\PONENTE\Calidad\Juego_Basic\Juego_Basic\obj\Debug\net8.0-windows\Juego_Basic.AssemblyInfo.cs
+D:\FILE-JC\CURSOS\UNAJ\PONENTE\Calidad\Juego_Basic\Juego_Basic\obj\Debug\net8.0-windows\Juego_Basic.csproj.CoreCompileInputs.cache
+D:\FILE-JC\CURSOS\UNAJ\PONENTE\Calidad\Juego_Basic\Juego_Basic\obj\Debug\net8.0-windows\Juego_Basic.dll
+D:\FILE-JC\CURSOS\UNAJ\PONENTE\Calidad\Juego_Basic\Juego_Basic\obj\Debug\net8.0-windows\refint\Juego_Basic.dll
+D:\FILE-JC\CURSOS\UNAJ\PONENTE\Calidad\Juego_Basic\Juego_Basic\obj\Debug\net8.0-windows\Juego_Basic.pdb
+D:\FILE-JC\CURSOS\UNAJ\PONENTE\Calidad\Juego_Basic\Juego_Basic\obj\Debug\net8.0-windows\Juego_Basic.genruntimeconfig.cache
+D:\FILE-JC\CURSOS\UNAJ\PONENTE\Calidad\Juego_Basic\Juego_Basic\obj\Debug\net8.0-windows\ref\Juego_Basic.dll
